@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">week2</string>
+    <string name="sex">性別</string>
+    <string name="age">年齡</string>
+    <string name="confirm">確定</string>
+    <string name="my_id_name">B1143028 詹朝成</string>
+
+    <string-array name="sex_list">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+    <string name="spn_sex_list_prompt">請選擇性別</string>
+</resources>

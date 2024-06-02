@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string name="button2">返回</string>
+    <string name="button">確認</string>
+    <string name="name">姓名</string>
+    <string name="my_id">B1143028</string>
+    <string name="str1">請輸入姓名</string>
+
+</resources>
